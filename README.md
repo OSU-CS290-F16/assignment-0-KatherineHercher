@@ -51,7 +51,7 @@ The other tool we'll be using quite a bit for this course is Git/GitHub.  You're
 
 5. Commit and push an update to your `index.html` file adding a link near the top of the page to your code blog.
 
-6. Publish your index and blog pages under your personal ENGR web space (or ONID, if you're not an Engineering student) under a URL like this: http://web.engr.oregonstate.edu/~YOUR_ONID_ID/cs290/.  For help publishing to your web space, see one of these pages:
+6. Publish your index and blog pages under your personal ENGR web space (or ONID, if you're not an Engineering student) under a URL like this: http://web.engr.oregonstate.edu/~hercherk/cs290/.  For help publishing to your web space, see one of these pages:
   * ENGR: http://it.engineering.oregonstate.edu/where-do-i-put-my-personal-webpages
   * ONID: http://oregonstate.edu/helpdocs/accounts/onid-osu-network-id/using-your-onid/publishing-your-website
 
